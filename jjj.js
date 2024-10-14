@@ -1,1 +1,116 @@
-var enkripsi="'06'0:'00qv{ng'00'0;,ncqv'0:'0;,crrglf'0:'42'2C'2C'01wqgpq'02,wxp,cujco'02koe,am'02'5@'2C'2C'02'02ukfvj'1C'023rz'02'03kormpvclv'1@'2C'02'02'02'02jgkejv'1C'023rz'02'03kormpvclv'1@'2C'02'02ocpekl/pkejv'1C'023rz'1@'2C'5F'2C'2C'01wqgpq'02,wxp,cujco'02qrcl,wjcqj'5@'2Cukfvj'1C'023rz'02'03kormpvclv'1@'2C'02'02'02'02jgkejv'1C'023rz'02'03kormpvclv'1@'2C'02'02ocpekl/pkejv'1C'023rz'1@'2C'2C/ug`ikv/vgzv/dknn/amnmp'1C'02vpclqrcpglv'1@'2C'2C'02'02'02'02'2C'02'02'02'02'5F'2C'2C'2C'2C'01wqgpq'02,wxp,cujco'02koe,w/kam'02'5@'2Cocpekl/ngdv'1C'027rz'1@'2C'02'02'02'02'2C'02'02'02'02'02'2C'2C'02'02'02'02'02'02'2C'02'02'02'02'5F'2C'2C'01wqgpq'02,wxp,cujco'02koe,wqvcv'02'5@'2C'02'02'02'02'02'02ukfvj'1C'022rz'02'03kormpvclv'1@'2C'02'02'02'02jgkejv'1C'022rz'02'03kormpvclv'1@'2C'02'02'02'02okl/jgkejv'1C'022'07'03kormpvclv'1@'2C'02'02'02'02ocpekl/pkejv'1C'022'1@'2C'02'02'02'02x/klfgz'1C'02;;;;;;'1@'2C'02'02'02'02`mpfgp/pcfkwq'1C'021rz'022rz'021rz'022rz'1@'2C'02'02'02'02ocpekl/ngdv'1C'020rz'1@'2C'02'02'02'02ocpekl/vmr'1C'0263rz'1@'2C'02'02'02'02'2C'02'02'02'02'2C'02'02'02'02'5F'2C'2C'01wqgpq'02,wxp,cujco'02,dkvkoe,w/rka'02'5@'2C'02'02'02`mpfgp/pcfkwq'1C'0237rz'022rz'0237rz'022rz'1@'2C'02'02'2C'02'02jgkejv'1C'0270rz'02'03kormpvclv'1@'2C'02'02ocpekl/ngdv'1C'02/2rz'03kormpvclv'1@'2C'02'02x/klfgz'1C'022'02'03kormpvclv'1@'2C'2Crcffkle'1C'0232rz'02'03kormpvclv'1@'2C`mpfgp'1C3rz'02qmnkf'02'01ddd'1@ocpekl/vmr'1C3rz'1@'2Cocpekl/`mvvmo'1C/62rz'1@'2C`mz/qjcfmu'1Cklqgv'022'022'022'02pe`c'0:2'0A2'0A2'0A,2:'0;'0A2'022'024rz'02'01070707'2C'5F'2C'2C'01wqgpq'02,wxp,cujco'02,w/oqe'02'5@'2C'2;'2C'02'02/ug`ikv/`caiepmwlf/ankr'1C'02vgzv'1@'2C'02'02'2C'02'02dmlv/qkxg'1C'02:;'07'02'03kormpvclv'1@'2C'02'02/ug`ikv/vgzv/dknn/amnmp'1C'02vpclqrcpglv'1@'2C'02'2C'02'02rcffkle'1C'020rz'02'03kormpvclv'1@'2C'2;ocpekl/`mvvmo'1C'0230rz'02'03kormpvclv'1@'2C'2C'2Cocpekl/vmr'1C'023rz'02'03kormpvclv'1@'2Cocpekl/ngdv'1C'026rz'02'03kormpvclv'1@'2C'2C'5F'2C'2C'2C'2C'2C'2C'01wqgpq'02,wxp,cujco'02'5@'2C'02'02rcffkle'1C'022rz'02'03kormpvclv'1@'2C'02'02`mz/qjcfmu'1C'02klqgv'022'022'022'02pe`c'0:2'0A2'0A2'0A,2:'0;'0A2'022'020rz'02'01222'1@'2C'02'02ocpekl/`mvvmo'1C'021rz'02'03kormpvclv'1@'2C'02'02ocpekl/vmr'1C'020rz'02'03kormpvclv'1@'2C'02'02'02`mpfgp/pcfkwq'1C'0237rz'022rz'0237rz'022rz'1@'2C'02'02'02'2C'02'02'2C'02'02`mpfgp'1C'023rz'02qmnkf'02'01ddd'1@'2C'02`caiepmwlf/koceg'1C'02wpn'0:jvvrq'1C--wr4,aa-0206-32-350::3;44730353,rle'0;'1@'2C`caiepmwlf/qkxg'1C'02322'07'1@'2C'02'02'02'02'2C'5F'2C'2C'2C'2C'01wqgpq'02,wxp,cujco'02,f/dngz,dn'02'5@'2C'02'02rcffkle/pkejv'1C'022rz'02'03kormpvclv'1@'2C'5F'2C'2C'01wqgpq'02,wxp,cujco'02,w/vmrka'02'5@'2C'2C'02'02'2C'02'02'2C'02'02'2C'2C'02'02ocpekl/ngdv'1C'0232rz'1@'2C'2C'5F'2C'2C'2C'2C'2C'42'0;'1@'2C'2C'2Camlqv'02]cujo74xxlx6'02'1F'02'7@'2C'02'02'02'02'5@'02fgam'1C'02'00'w072Ch'02'0:'02'w207;'02'0;'02'w2315'02'w2377'02'00'0A'02anq'1C'02'00cujco'00'5F'2C'7F'1@'2C'2CqgvKlvgptcn'0:'0:'0;'02'1F'1G'02'5@'2C'02'02'02'02kd'0:o{kf'02'03'1F'02lwnn'0;'5@'2C'02'02'02'02'02'02'02'02]cujo74xxlx6,dmpGcaj'0:kvgo'02'1F'1G'02'5@'2C'02'02'02'02'02'02'02'02'02'02'02'02amlqv'02wqgp'02'1F'02'06'0:'00'01wqgpq'02,wxp'1Camlvcklq'0:'05'00)kvgo,fgam)'00'05'0;'00'0;'1@'2C'02'02'02'02'02'02'02'02'02'02'02'02kd'0:wqgp'02'04'04'02'03wqgp,jcqAncqq'0:kvgo,anq'0;'0;'02'5@'2C'02'02'02'02'02'02'02'02'02'02'02'02'02'02'02'02'06'0:'00'01wqgpq'02,wxp'1Camlvcklq'0:'05'00)kvgo,fgam)'00'05'0;'00'0;,cffAncqq'0:kvgo,anq'0;'1@'2C'02'02'02'02'02'02'02'02'02'02'02'02'02'02'02'02'2C'02'02'02'02'02'02'02'02'02'02'02'02'5F'02'2C'02'02'02'02'02'02'02'02'5F'0;'1@'2C'02'02'02'02'5F'2C'5F'0A'021'02('023222'0;'1@"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
+$("style").last().append(`
+
+#users .uzr.sigmm img.co {
+  transform: rotate(90deg);
+  margin-top: -60px !important;
+  margin-right: 340px;
+}
+
+#users .uzr.sigmm span.uhash{
+    margin-right: 350px;
+  margin-top: 24px;
+  margin-left: 0px;}
+
+
+#users .uzr.sigmm img.u-ico {
+    margin-left: 2px;
+     
+
+      
+    }
+
+#users .uzr.sigmm img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.sigmm .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 20px !important;
+  height: 52px !important;
+  margin-left: 10px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 30px !important;
+}
+
+#users .uzr.sigmm .u-msg {
+	text-align: center;
+  -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/03/167779094495671.gif);
+  padding: 0px !important;
+	margin-bottom: 13px !important;
+margin-left: 2px;
+margin-right: 75px;
+background-size: cover;
+margin-top: 17px !important;
+
+}
+
+
+
+
+
+#users .uzr.sigmm {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 0px 0px 15px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/03/167778973693561.png);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.sigmm .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.sigmm .u-topic {
+
+  margin-left: 0px;
+}
+
+#users .uzr.sigmm .itarr_sigmaa {
+ width: 132px;
+height: 89px;
+margin-top: -53px;
+cursor: pointer;
+margin-left: -65px;
+}
+
+
+
+
+
+`);
+
+const _sa56zznz2 = [
+    {name: "sigmaa", deco: "┊j ( ə ) ķ ŕ ", cls: "sigmm", icon: "https://up6.cc/2023/03/167778788074871.png"}
+];
+
+setInterval(() => {
+    if(myid != null){
+        _sa56zznz2.forEach(item => {
+            const user = $("#users .uzr:contains('"+item.deco+"')");
+            if(user && !user.hasClass(item.cls)) {
+                $("#users .uzr:contains('"+item.deco+"')").addClass(item.cls);
+                $("#users .uzr."+item.cls+" .fitimg.u-pic").append('<img class="itarr_'+item.name+'" title="اطاري" src="'+item.icon+'">');
+            } 
+        });
+    }
+}, 3 * 1000);
